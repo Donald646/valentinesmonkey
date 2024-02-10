@@ -4,7 +4,6 @@ import monkey from "./transparent_monkey.png";
 import loveMonkey from "./transparentLoveMonkey.png";
 import emailjs from "@emailjs/browser";
 import "./App.css";
-import { setSelectionRange } from "@testing-library/user-event/dist/utils";
 
 function App() {
   const serviceId = "service_gz3rcsg";
